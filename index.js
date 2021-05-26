@@ -4,7 +4,7 @@ const PORT = 5000;
 
 app.get("/",(req,res)=>{
 
-    res.send({message:"Working fine"});
+    res.send({message:"Working fine2"});
 
 })
 app.listen(PORT,function(){
